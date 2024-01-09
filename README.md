@@ -1,3 +1,5 @@
+![Learnathon Image](https://github.com/Ufraan/learnathon-9785/blob/main/learnathon-img.jpg)
+
 # Learnathon Program
 
 The Learnathon program, initiated by [CodeWave Hub](https://codewavehub.tech/), is an open-source chapter dedicated to fostering students' enthusiasm for technology.
