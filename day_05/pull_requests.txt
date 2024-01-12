@@ -1,0 +1,1 @@
+proposing changes to a codebase, often including new features or bug fixes, for review and integration.

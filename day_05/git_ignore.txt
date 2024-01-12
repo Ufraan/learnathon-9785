@@ -1,0 +1,1 @@
+specifying files or directories to be excluded from version control, preventing them from being tracked.
