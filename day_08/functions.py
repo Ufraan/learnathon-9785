@@ -3,7 +3,7 @@
 def greet():
     print('Hello World!')
 
-# calling the function
+# calling the function  so that it executes
 greet()
 
 print('Outside function')

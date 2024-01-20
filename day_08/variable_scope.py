@@ -1,4 +1,4 @@
-#A variable scope specifies the region where we can access a variable.
+#A variable scope specifies the region where we can access a variable.  There are two types of variable scopes in Python:
 
 
 
