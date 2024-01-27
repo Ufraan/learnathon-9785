@@ -13,3 +13,7 @@ print(my_list[5:])
 
 # items beginning to end
 print(my_list[:])
+
+
+
+#slicing of list is also used in real life applications like in the case of a string, we can use slicing to access a substring of the string. 
